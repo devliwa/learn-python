@@ -10,7 +10,7 @@
 - [python-lesson-7](https://github.com/devliwa/python-lesson-7)
 - [python-lesson-8](https://github.com/devliwa/python-lesson-8)
 - [python-lesson-9](https://github.com/devliwa/python-lesson-9)
-- [functions-with-outputs](https://github.com/devliwa/functions-with-outputs)
+- [python-lesson-10](https://github.com/devliwa/python-lesson-10)
 - [blackjack-capstone-basic-project](https://github.com/devliwa/blackjack-capstone-basic-project)
 - [scope-and-number-guessing-game](https://github.com/devliwa/scope-and-number-guessing-game)
 

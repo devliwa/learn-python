@@ -1,6 +1,6 @@
 # python-developer
 
-### basic-code
+### basic-code-learning
 - [band-name-generator](https://github.com/devliwa/band-name-generator)
 - [tip-calculator](https://github.com/devliwa/tip-calculator)
 - [treasure-island](https://github.com/devliwa/treasure-island)

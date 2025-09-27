@@ -3,7 +3,7 @@
 ### basic-code-learning
 - [python-lesson-1](https://github.com/devliwa/python-lesson-1)
 - [python-lesson-2](https://github.com/devliwa/python-lesson-2)
-- [treasure-island](https://github.com/devliwa/treasure-island)
+- [python-lesson-3](https://github.com/devliwa/python-lesson-3)
 - [rock-paper-scissors](https://github.com/devliwa/rock-paper-scissors)
 - [password-generator](https://github.com/devliwa/password-generator)
 - [python-functions-karel](https://github.com/devliwa/python-functions-karel)

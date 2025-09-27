@@ -7,7 +7,7 @@
 - [python-lesson-4](https://github.com/devliwa/python-lesson-4)
 - [python-lesson-5](https://github.com/devliwa/python-lesson-5)
 - [python-lesson-6](https://github.com/devliwa/python-lesson-6)
-- [hangman](https://github.com/devliwa/hangman)
+- [python-lesson-7](https://github.com/devliwa/python-lesson-7)
 - [function-parameters-caesar-cipher](https://github.com/devliwa/function-parameters-caesar-cipher)
 - [dictionaries-nesting-and-secret-auction](https://github.com/devliwa/dictionaries-nesting-and-secret-auction)
 - [functions-with-outputs](https://github.com/devliwa/functions-with-outputs)

@@ -12,7 +12,7 @@
 - [python-lesson-9](https://github.com/devliwa/python-lesson-9)
 - [python-lesson-10](https://github.com/devliwa/python-lesson-10)
 - [python-lesson-11](https://github.com/devliwa/python-lesson-11)
-- [scope-and-number-guessing-game](https://github.com/devliwa/scope-and-number-guessing-game)
+- [python-lesson-12](https://github.com/devliwa/python-lesson-12)
 
 #### tools
 - [Text to ASCII Art Generator](https://patorjk.com/software/taag/)

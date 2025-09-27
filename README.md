@@ -13,3 +13,6 @@
 - [functions-with-outputs](https://github.com/devliwa/functions-with-outputs)
 - [blackjack-capstone-basic-project](https://github.com/devliwa/blackjack-capstone-basic-project)
 - [scope-and-number-guessing-game](https://github.com/devliwa/scope-and-number-guessing-game)
+
+#### tools
+- [Text to ASCII Art Generator](https://patorjk.com/software/taag/)

@@ -5,7 +5,7 @@
 - [python-lesson-2](https://github.com/devliwa/python-lesson-2)
 - [python-lesson-3](https://github.com/devliwa/python-lesson-3)
 - [python-lesson-4](https://github.com/devliwa/python-lesson-4)
-- [password-generator](https://github.com/devliwa/password-generator)
+- [python-lesson-5](https://github.com/devliwa/python-lesson-5)
 - [python-functions-karel](https://github.com/devliwa/python-functions-karel)
 - [hangman](https://github.com/devliwa/hangman)
 - [function-parameters-caesar-cipher](https://github.com/devliwa/function-parameters-caesar-cipher)

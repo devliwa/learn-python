@@ -10,4 +10,4 @@
 - [hangman](https://github.com/devliwa/hangman)
 - [function-parameters-caesar-cipher](https://github.com/devliwa/function-parameters-caesar-cipher)
 - [dictionaries-nesting-and-secret-auction](https://github.com/devliwa/dictionaries-nesting-and-secret-auction)
-- 
+- [functions-with-outputs](https://github.com/devliwa/functions-with-outputs)

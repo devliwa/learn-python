@@ -9,7 +9,7 @@
 - [python-lesson-6](https://github.com/devliwa/python-lesson-6)
 - [python-lesson-7](https://github.com/devliwa/python-lesson-7)
 - [python-lesson-8](https://github.com/devliwa/python-lesson-8)
-- [dictionaries-nesting-and-secret-auction](https://github.com/devliwa/dictionaries-nesting-and-secret-auction)
+- [python-lesson-9](https://github.com/devliwa/python-lesson-9)
 - [functions-with-outputs](https://github.com/devliwa/functions-with-outputs)
 - [blackjack-capstone-basic-project](https://github.com/devliwa/blackjack-capstone-basic-project)
 - [scope-and-number-guessing-game](https://github.com/devliwa/scope-and-number-guessing-game)

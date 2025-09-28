@@ -16,7 +16,7 @@
 - [python-lesson-13](https://github.com/devliwa/python-lesson-13)
 - [python-lesson-14](https://github.com/devliwa/python-lesson-14)
 - [python-lesson-15](https://github.com/devliwa/python-lesson-15)
-- [python-lesson-16]()
+- [python-lesson-16](https://github.com/devliwa/python-lesson-16)
 
 #### tools
 - [Text to ASCII Art Generator](https://patorjk.com/software/taag/)

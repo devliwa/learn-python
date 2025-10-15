@@ -18,7 +18,7 @@
 - [Lesson 9]()
 - [Lesson 10]()
 - [Lesson 11]()
-- [Lesson 12](https://github.com/devliwa/python-lesson-12)
+- [Lesson 12]()
 - [Lesson 13](https://github.com/devliwa/python-lesson-13)
 - [Lesson 14](https://github.com/devliwa/python-lesson-14)
 - [Lesson 15](https://github.com/devliwa/python-lesson-15)

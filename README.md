@@ -7,7 +7,7 @@
 
  
 ### basic-code-learning
-- [Lesson 1](https://github.com/devliwa/python-lesson-1)
+- [Lesson 1]()
 - [Lesson 2](https://github.com/devliwa/python-lesson-2)
 - [Lesson 3](https://github.com/devliwa/python-lesson-3)
 - [Lesson 4](https://github.com/devliwa/python-lesson-4)

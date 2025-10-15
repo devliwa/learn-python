@@ -22,7 +22,7 @@
 - [Lesson 13]()
 - [Lesson 14]()
 - [Lesson 15]()
-- [Lesson 16](https://github.com/devliwa/python-lesson-16)
+- [Lesson 16]()
 - [Lesson 17]()
 - [Lesson 18]()
 - [Lesson 19]()

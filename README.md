@@ -12,7 +12,7 @@
 - [Lesson 3]()
 - [Lesson 4]()
 - [Lesson 5]()
-- [Lesson 6](https://github.com/devliwa/python-lesson-6)
+- [Lesson 6]()
 - [Lesson 7](https://github.com/devliwa/python-lesson-7)
 - [Lesson 8](https://github.com/devliwa/python-lesson-8)
 - [Lesson 9](https://github.com/devliwa/python-lesson-9)
